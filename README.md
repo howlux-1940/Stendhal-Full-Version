@@ -234,4 +234,4 @@ This repository serves as the official landing page for Stendhal. The software i
 **Get the most recent version of Stendhal today!**
 
 ---
-**Last updated:** 2026-09-19 14:07:43 UTC
+**Last updated:** 2026-09-19 17:42:00 UTC
